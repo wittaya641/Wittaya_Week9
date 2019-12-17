@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wittaya_Week9</string>
+    <string name="et_url">กรุณาใส่ url</string>
+    <string name="btn_search">ค้นหา</string>
+</resources>
